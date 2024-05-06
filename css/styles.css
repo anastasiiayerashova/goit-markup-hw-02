@@ -1,5 +1,5 @@
 body {
-font-family: "Roboto", "Raleway", sans-serif;
+font-family: "Roboto", sans-serif;
 color: #434455;
 background-color: #FFFFFF;
 }
@@ -44,9 +44,7 @@ list-style-type: none;
 color: #404bbf;
 }
 
-.navigation .navigation-studio:active,
-.navigation .navigation-studio:focus {
-text-decoration: underline;
+.navigation-studio:focus {
 color: #404bbf;
 }
 
