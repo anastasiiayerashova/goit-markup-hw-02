@@ -40,12 +40,11 @@ color: #2e2f42;
 list-style-type: none;
 }
 
-.navigation:hover
-.navigation:focus {
+.navigation:hover {
 color: #404bbf;
 }
 
-.navigation-studio:focus {
+.navigation > li > a:focus {
 color: #404bbf;
 }
 
